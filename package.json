@@ -1,0 +1,20 @@
+{
+  "name": "movie-database-playtime",
+  "version": "0.1.0",
+  "description": "Some personal coding practice using movie data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trycrmr/movie-database-playtime.git"
+  },
+  "author": "trycrmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trycrmr/movie-database-playtime/issues"
+  },
+  "homepage": "https://github.com/trycrmr/movie-database-playtime#readme",
+  "type": "module"
+}
